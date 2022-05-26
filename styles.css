@@ -1,8 +1,15 @@
 body {
     margin: 0;
+    padding: 0;
     background-color: #212121;
 }
 
 .wrapper {
     background-image: url("ghost-in-the-dark.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    width: 100%;
+    height: 100%;
 }

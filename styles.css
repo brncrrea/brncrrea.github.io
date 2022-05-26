@@ -1,6 +1,8 @@
 body {
     margin: 0;
-    background-image: url("ghost-in-the-dark.png");
     background-color: #212121;
 }
 
+.wrapper {
+    background-image: url("ghost-in-the-dark.png");
+}

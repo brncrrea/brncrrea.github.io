@@ -1,11 +1,6 @@
 body {
     margin: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.container {
-    background-size: cover;
+    background-image: url("ghost-in-the-dark.png");
+    background-color: #212121;
 }
 
